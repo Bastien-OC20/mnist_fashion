@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/106502042340017438/5175b26405474eb5a33b6eb5a049eb70/artifacts
+end_time: 1734638607431
+entry_point_name: ''
+experiment_id: '106502042340017438'
+lifecycle_stage: active
+run_id: 5175b26405474eb5a33b6eb5a049eb70
+run_name: fun-rook-678
+run_uuid: 5175b26405474eb5a33b6eb5a049eb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734638229764
+status: 4
+tags: []
+user_id: Bastien

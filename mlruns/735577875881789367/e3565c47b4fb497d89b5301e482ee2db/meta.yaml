@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/735577875881789367/e3565c47b4fb497d89b5301e482ee2db/artifacts
+deleted_time: 1734637714370
+end_time: 1734637412283
+entry_point_name: ''
+experiment_id: '735577875881789367'
+lifecycle_stage: deleted
+run_id: e3565c47b4fb497d89b5301e482ee2db
+run_name: angry-horse-695
+run_uuid: e3565c47b4fb497d89b5301e482ee2db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734637103192
+status: 3
+tags: []
+user_id: Bastien

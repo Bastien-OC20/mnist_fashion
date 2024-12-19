@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/735577875881789367/32fbc03012a64160a3ac8039a44d50c2/artifacts
+deleted_time: 1734637714370
+end_time: 1734637266163
+entry_point_name: ''
+experiment_id: '735577875881789367'
+lifecycle_stage: deleted
+run_id: 32fbc03012a64160a3ac8039a44d50c2
+run_name: brawny-zebra-561
+run_uuid: 32fbc03012a64160a3ac8039a44d50c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734637068849
+status: 4
+tags: []
+user_id: Bastien

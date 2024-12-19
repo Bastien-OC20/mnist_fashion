@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/557124943661981395
+creation_time: 1734637746725
+experiment_id: '557124943661981395'
+last_update_time: 1734637746725
+lifecycle_stage: active
+name: Fashion_MNIST_Models_classKeras

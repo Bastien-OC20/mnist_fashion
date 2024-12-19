@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Simplon/mnist_fashion/models/mlruns/0/060f836e48544fc88f68974a1a4cbd7d/artifacts
+end_time: 1734636681316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 060f836e48544fc88f68974a1a4cbd7d
+run_name: valuable-donkey-955
+run_uuid: 060f836e48544fc88f68974a1a4cbd7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734636589084
+status: 3
+tags: []
+user_id: Bastien

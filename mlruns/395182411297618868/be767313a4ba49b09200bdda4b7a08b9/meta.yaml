@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395182411297618868/be767313a4ba49b09200bdda4b7a08b9/artifacts
+end_time: 1734638047446
+entry_point_name: ''
+experiment_id: '395182411297618868'
+lifecycle_stage: active
+run_id: be767313a4ba49b09200bdda4b7a08b9
+run_name: gaudy-mare-414
+run_uuid: be767313a4ba49b09200bdda4b7a08b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734637767207
+status: 3
+tags: []
+user_id: Bastien

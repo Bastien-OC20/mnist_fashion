@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/557124943661981395/0f65d9ff31df44c98d0024f5f35488a8/artifacts
+end_time: 1734637749885
+entry_point_name: ''
+experiment_id: '557124943661981395'
+lifecycle_stage: active
+run_id: 0f65d9ff31df44c98d0024f5f35488a8
+run_name: stylish-mole-555
+run_uuid: 0f65d9ff31df44c98d0024f5f35488a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734637749041
+status: 4
+tags: []
+user_id: Bastien

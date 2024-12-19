@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/395182411297618868
+creation_time: 1734637763509
+experiment_id: '395182411297618868'
+last_update_time: 1734637763509
+lifecycle_stage: active
+name: Fashion_MNIST_Models_sl
